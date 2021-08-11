@@ -1,5 +1,5 @@
 # Pet Project Sushi Delivery 
-  <img align="left" alt="Visual Studio Code" width="40px" src=https://w7.pngwing.com/pngs/958/1008/png-transparent-sushi-japanese-cuisine-delivery-illustration-running-sushi-food-text-logo.png"/>
+  <
 
 It is first version that is why may be have some problems if you can find problems please give me feedbacks 🙈🙌🏻.
   It is sample Ui which I try to create
@@ -8,17 +8,18 @@ It is first version that is why may be have some problems if you can find proble
  Onboarding Pages 📓
   
 <a href="https://ibb.co/3vH2Qv4"><img src="https://i.ibb.co/8bVqtbN/Screenshot-1628668550.png" alt="Screenshot-1628668550" border="0" width="250"></a>
-Gif vesrion 🎞
-<a href="https://gifyu.com/image/y4C8"><img src="https://s6.gifyu.com/images/deepin-screen-recorder__20210811193353.gif" alt="deepin-screen-recorder__20210811193353.gif" border="0" width="250"></a>
+ Gif vesrion 🎞
 
-Registration page 📝
+<a href="https://gifyu.com/image/y4C8"><img src="https://s6.gifyu.com/images/deepin-screen-recorder__20210811193353.gif" alt="deepin-screen-recorder__20210811193353.gif" border="0" width="250"></a>
+  Registration page 📝
+  
   
 <a href="https://ibb.co/k8bMgcw"><img src="https://i.ibb.co/d2C70KV/Screenshot-1628668678.png" alt="Screenshot-1628668678" border="0" width="250"></a>
-Gif vesrion 🎞
+ Gif vesrion 🎞
 <a href="https://gifyu.com/image/y4CW"><img src="https://s6.gifyu.com/images/deepin-screen-recorder__20210811193422.gif" alt="deepin-screen-recorder__20210811193422.gif" border="0" width="250"></a>
 <a href="https://gifyu.com/image/y4Cn"><img src="https://s6.gifyu.com/images/deepin-screen-recorder__20210811193508.gif" alt="deepin-screen-recorder__20210811193508.gif" border="0" width="250"></a>
   
-Main Pages 🗄
+ Main Pages 🗄
   
 <a href="https://ibb.co/6BgsDLG"><img src="https://i.ibb.co/ySWsg7K/Screenshot-1628670742.png" alt="Screenshot-1628670742" border="0" width="250"></a>
  <a href="https://gifyu.com/image/y4C6"><img src="https://s6.gifyu.com/images/deepin-screen-recorder_Select-area_20210811200555.gif" alt="deepin-screen-recorder_Select-area_20210811200555.gif" border="0" width="250"></a>
