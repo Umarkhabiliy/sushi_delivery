@@ -52,3 +52,11 @@ A few packages to get if you want to use this Flutter project 🧰⚙️🔗:
   path_provider: ^2.0.2  // for work with path
   path: ^1.8.0 // for work with path
   http: ^0.13.3  for internet resources
+  
+  
+  <img align="left" alt="Visual Studio Code" width="40px" src="https://www.hannatronsen.com/static/Media/badges/flutter.png"/>
+  <img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"/>
+ <img align="left" alt="Visual Studio Code" width="30px" src="https://miro.medium.com/max/1138/1*6-G_o5PZSzppyfdLTbFu-A.png"/>
+ <img align="left" alt="Visual Studio Code" width="30px" src="https://www.marinedatascience.co/img/software/logo_python.png"/>
+  <img align="left" alt="Visual Studio Code" width="30px" src="https://w7.pngwing.com/pngs/246/205/png-transparent-computer-icons-django-django-angle-text-logo.png"/>
+   <img align="left" alt="Visual Studio Code" width="30px" src="https://oauth.net/images/code/c.png"/>
