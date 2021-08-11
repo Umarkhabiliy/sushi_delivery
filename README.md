@@ -9,7 +9,7 @@ Onboarding Pages 📓⌨️
   
 <a href="https://ibb.co/3vH2Qv4"><img src="https://i.ibb.co/8bVqtbN/Screenshot-1628668550.png" alt="Screenshot-1628668550" border="0" width="250"></a>
  
-Gif vesrion 🎞
+Gif vesrion 🎞✒️
 
 <a href="https://gifyu.com/image/y4C8"><img src="https://s6.gifyu.com/images/deepin-screen-recorder__20210811193353.gif" alt="deepin-screen-recorder__20210811193353.gif" border="0" width="250"></a>
   
@@ -26,9 +26,13 @@ Gif vesrion 🎞🖥
  Main Pages 🗄🔑
   
 <a href="https://ibb.co/6BgsDLG"><img src="https://i.ibb.co/ySWsg7K/Screenshot-1628670742.png" alt="Screenshot-1628670742" border="0" width="250"></a>
-  🗃🗳
+  
+🗃🗳
+
  <a href="https://gifyu.com/image/y4C6"><img src="https://s6.gifyu.com/images/deepin-screen-recorder_Select-area_20210811200555.gif" alt="deepin-screen-recorder_Select-area_20210811200555.gif" border="0" width="250"></a>
+
   📁📂
+
 <a href="https://ibb.co/0MMVzgv"><img src="https://i.ibb.co/J77FSfg/Screenshot-1628670747.png" alt="Screenshot-1628670747" border="0" width="250"></a>
 
 If you want to use app you can easly download 📲 => https://github.com/Umarkhabiliy/sushi_delivery/blob/main/app-armeabi-v7a-release.apk
