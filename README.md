@@ -1,11 +1,11 @@
-# Pet Project Sushi Delivery 
-  <
+# Pet Project Sushi Delivery 🍣
 
-It is first version that is why may be have some problems if you can find problems please give me feedbacks 🙈🙌🏻.
+Hello everyone ✋✌️ It is first version that is why may be have some problems if you can find problems please give me feedbacks 🙈🙌🏻.
   It is sample Ui which I try to create
   
 <a href="https://ibb.co/d7wLRmt"><img src="https://i.ibb.co/8XLdHYb/16.png" alt="16" border="0" ></a>
- Onboarding Pages 📓
+ 
+Onboarding Pages 📓
   
 <a href="https://ibb.co/3vH2Qv4"><img src="https://i.ibb.co/8bVqtbN/Screenshot-1628668550.png" alt="Screenshot-1628668550" border="0" width="250"></a>
  
