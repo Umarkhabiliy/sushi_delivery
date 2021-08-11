@@ -1,7 +1,7 @@
-# Pet Project Sushi Delivery 🍣
+# Pet Project Sushi Delivery 🍣🥙
 
 Hello everyone ✋✌️ It is first version that is why may be have some problems if you can find problems please give me feedbacks 🙈🙌🏻.
-  It is sample Ui which I try to create
+  It is sample Ui which I try to create 💻🌱
   
 <a href="https://ibb.co/d7wLRmt"><img src="https://i.ibb.co/8XLdHYb/16.png" alt="16" border="0" ></a>
  
@@ -30,15 +30,15 @@ Gif vesrion 🎞
   
 <a href="https://ibb.co/0MMVzgv"><img src="https://i.ibb.co/J77FSfg/Screenshot-1628670747.png" alt="Screenshot-1628670747" border="0" width="250"></a>
 
-If you want to use app you can easly download => https://github.com/Umarkhabiliy/sushi_delivery/blob/main/app-armeabi-v7a-release.apk
+If you want to use app you can easly download 📲 => https://github.com/Umarkhabiliy/sushi_delivery/blob/main/app-armeabi-v7a-release.apk
 
 
 
-This project is a starting point for a Flutter application. In the Future we will improve our project. 
+This project is a starting point for a Flutter application 🧑🏻‍💻. In the Future we will improve our project 👨🏻‍🎓. 
 
 
 
-A few packages to get if you want to use this Flutter project:
+A few packages to get if you want to use this Flutter project 🧰⚙️🔗:
 
   introduction_screen: ^2.1.0  //for onboarding pages
   tcard: ^1.3.5   // Onboarding pages we use in this package for animation card
